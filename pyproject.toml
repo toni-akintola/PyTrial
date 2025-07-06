@@ -1,0 +1,34 @@
+[project]
+name = "pytrial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.8.1",
+    "copulas>=0.12.3",
+    "ctgan>=0.7.0",
+    "datasets>=3.6.0",
+    "dill>=0.3.8",
+    "gensim>=4.3.2",
+    "icd10-cm>=0.0.5",
+    "joblib>=1.5.1",
+    "matplotlib>=3.10.3",
+    "networkx>=3.5",
+    "nltk>=3.8",
+    "numpy>=1.25.0",
+    "pandas>=2.1.0",
+    "promptehr>=0.0.6",
+    "rdkit>=2024.9.5",
+    "rdt>=1.17.1",
+    "requests>=2.32.4",
+    "scikit-learn>=1.3.0",
+    "sdmetrics>=0.15.0",
+    "seaborn>=0.13.2",
+    "tqdm>=4.67.1",
+    "transformers>=4.53.1",
+    "transtab>=0.0.5",
+    "trial2vec>=0.1.0",
+    "wget>=3.2",
+    "xgboost>=3.0.2",
+]
